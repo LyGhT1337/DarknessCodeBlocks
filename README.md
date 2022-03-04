@@ -3,7 +3,7 @@
 Compact, squared and dark for nightowls!
 
 
-![DarknessCodeBlocks](https://b.catgirlsare.sexy/bOJKiO-q.png)
+![DarknessCodeBlocks](https://i.imgur.com/AqyLhBS.png)
 
 ## Installation Powercord
 If you wish to use this Theme for Powercord, please follow the steps below:
