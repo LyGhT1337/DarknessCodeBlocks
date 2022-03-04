@@ -1,20 +1,9 @@
-# DiscordDarkness - A WiP Theme based on DiscordElectro
+# DarknessCodeBlocks - A WiP CodeBlocks Theme based on DiscordDarkness
 
 Compact, squared and dark for nightowls!
 
 
-![DiscordDarkness](https://b.catgirlsare.sexy/bOJKiO-q.png)
-
-
-## Installation BetterDiscord
-
-If you wish to use this Theme for BetterDiscord, please follow the steps below:
-
-1 - Download [BetterDiscord](https://github.com/rauenzi/BetterDiscordApp/releases) and Install it.
-
-2 - After installing it, download the [DiscordDarkness.theme.css](https://github.com/LyGhT1337/DiscordDarkness/releases/) file and put it in your Themes Folder.
-
-*You can locate the Themes folder by going to your Discord Settings -> Themes -> Open Themes Folder.*
+![DarknessCodeBlocks](https://b.catgirlsare.sexy/bOJKiO-q.png)
 
 ## Installation Powercord
 If you wish to use this Theme for Powercord, please follow the steps below:
@@ -31,8 +20,7 @@ Create an Issue on this Git or Direct Message me on Discord. New Discord Account
 
 Devs - LyGhT
 
-Base Theme - Spectra, cruxie, LyGhT
+Base Theme - cruxie
 
-Code snippets - tropix126, ClearVision, CreArts-Community
 
 
