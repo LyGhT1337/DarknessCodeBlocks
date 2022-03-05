@@ -143,15 +143,15 @@
 .hljs[class~="rsl" i]::before {content: "RenderMan RSL";--codeblockcolor: #77a805;--codeblockbackground: url(https://lyght1337.github.io/DarknessCodeBlocks/Codeblocksvg/rsl.svg);}
 .hljs[class~="armasm" i]::before {content: "Arm Assembly";--codeblockcolor: #b44142;--codeblockbackground: url(https://lyght1337.github.io/DarknessCodeBlocks/Codeblocksvg/arm.svg);}
 .hljs[class~="asm" i]::before,.hljs[class~="assembly" i]::before {content: "Assembly";--codeblockcolor: #25344c;--codeblockbackground: url(https://lyght1337.github.io/DarknessCodeBlocks/Codeblocksvg/asm.svg);}
-.hljs-selector-tag {color: #b2ccd6!important}
-.hljs-selector-class {color: #ffcb6b!important}
-.hljs-attr,.hljs-keyword,.hljs-meta,.hljs-selector-id {color: #c792ea!important}
-.hljs-selector-attr {color: #89ddf3!important}
-.hljs-attribute,.hljs-doctag,.hljs-literal,.hljs-meta-string,.hljs-regexp,.hljs-selector-pseudo {color: #73d1c8!important}
-.hljs-number {color: #ffe082!important}
-.hljs-bullet,.hljs-subst,.hljs-symbol,.hljs-template-variable,.hljs-type,.hljs-variable {color: #f07178!important}
-.hljs-link,.hljs-string {color: #c3e88d!important}
-.hljs-built_in,.hljs-name, .hljs-section, .hljs-title {color: #82aaff!important;}
+.hljs-selector-tag {color: #b2ccd6}
+.hljs-selector-class {color: #ffcb6b}
+.hljs-attr,.hljs-keyword,.hljs-meta,.hljs-selector-id {color: #c792ea}
+.hljs-selector-attr {color: #89ddf3}
+.hljs-attribute,.hljs-doctag,.hljs-literal,.hljs-meta-string,.hljs-regexp,.hljs-selector-pseudo {color: #73d1c8}
+.hljs-number {color: #ffe082}
+.hljs-bullet,.hljs-subst,.hljs-symbol,.hljs-template-variable,.hljs-type,.hljs-variable {color: #f07178}
+.hljs-link,.hljs-string {color: #c3e88d}
+.hljs-built_in,.hljs-name, .hljs-section, .hljs-title {color: #82aaff;}
 
 .textContainer-36wgKK {
 	background-color: var(--light);
