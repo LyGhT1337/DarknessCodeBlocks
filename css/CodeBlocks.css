@@ -205,3 +205,17 @@
 	border-radius:0;
 	border: 1px solid var(--dark);
 }
+
+.languageSelector-2e1IuO {
+    background-color: var(--light);
+    border: 1px solid var(--dark);
+    border-radius: 0;
+}
+
+.focused-qp-W9B, .item-1BCeuB:hover:not(.disabled-Mmpvl7){
+	background-color: var(--medium);
+}
+
+.item-1BCeuB{
+	border-radius:0;
+}
