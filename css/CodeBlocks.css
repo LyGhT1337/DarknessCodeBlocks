@@ -160,18 +160,18 @@
 }
 
 .footer-GXWBBp {
-	background-color: var(--hoverlight);
+	background-color: var(--light);
 	border: 1px solid var(--dark);
 	border-radius: 0;
 }
 
 .markup-eYLPri code, .markup-eYLPri code.inline {
-    background: var(--light)!important;
-    border: 1px solid var(--dark)!important;
+    background: var(--light);
+    border: 1px solid var(--dark);
 }
 
 .CodeMirror-scroll, .powercord-quickcss-editor-settings, .CodeMirror pre.CodeMirror-line, .powercord-entities-manage-tabs, .powercord-quickcss:not(.popped-out), .CodeMirror pre.CodeMirror-line-like, .powercord-quickcss-footer, .powercord-quickcss-header, .CodeMirror-sizer, .CodeMirror-gutter, .CodeMirror-gutters, .CodeMirror-linenumber {
-    background: var(--light)!important;
+    background: var(--light);
 }
 
 .powercord-quickcss-header, .powercord-quickcss-footer{
