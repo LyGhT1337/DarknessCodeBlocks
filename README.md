@@ -5,10 +5,10 @@ Compact, squared and dark for nightowls!
 
 ![DarknessCodeBlocks](https://i.imgur.com/AqyLhBS.png)
 
-## Installation Powercord
-If you wish to use this Theme for Powercord, please follow the steps below:
+## Installation Replugged
+If you wish to use this Theme for Replugged, please follow the steps below:
 
-1 -  Git clone the repo into your Powercords Theme folder.
+1 -  Git clone the repo into your Repluggeds Theme folder.
 
 *You can locate the Themes folder by going to your Discord Settings -> Themes -> Open Themes Folder.*
 
